@@ -1,7 +1,14 @@
 git add
 
-git commit -m
+
+git commit -m this is testing the revert
+
 
 git push
 
+
+
 git pull
+
+
+git clone
